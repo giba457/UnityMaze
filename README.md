@@ -1,3 +1,3 @@
 # Unity Maze
 
-A maze project that uses VR.
+A maze project designed in Unity and originally meant to be implemented in Samsung VR.
