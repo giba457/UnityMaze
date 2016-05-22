@@ -1,3 +1,3 @@
-# 5619MazeProject
+# Unity Maze
 
 A maze project that uses VR.
